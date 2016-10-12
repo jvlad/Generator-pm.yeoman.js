@@ -20,6 +20,7 @@ yo pm
 
 ## Generated Files Structure
 ├── README.md  
+├── .gitignore  
 
 ├── Design  
 │   └── README.md  
@@ -38,7 +39,7 @@ yo pm
 │   └── README.md  
 
 └── Test  
-     └── README.md  
+      └── README.md  
 
 ## License
 

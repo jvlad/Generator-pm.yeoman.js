@@ -1,6 +1,6 @@
 {
   "name": "generator-pm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "All your project specs, notes and tasks in form of text files.",
   "homepage": "",
   "author": {
@@ -41,7 +41,7 @@
       "mocha": true
     }
   },
-  "repository": "/generator-pm",
+  "repository": "https://github.com/jvlad/Generator-pm.yeoman.js",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"

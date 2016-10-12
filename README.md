@@ -1,5 +1,6 @@
-# generator-pm [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> All your project specs, notes and tasks in form of text files.
+# generator-pm
+> Yeoman generator for Documentation Repository.
+> Documentation Repository is just a folder where you can keep all project specs, notes and tasks in form of regular files: text, images and any others.
 
 ## Installation
 
@@ -16,16 +17,31 @@ Then generate your new project:
 yo pm
 ```
 
-## Getting To Know Yeoman
+## Generated Files Structure
+├── README.md  
 
- * Yeoman has a heart of gold.
- * Yeoman is a person with feelings and opinions, but is very easy to work with.
- * Yeoman can be too opinionated at times but is easily convinced not to be.
- * Feel free to [learn more about Yeoman](http://yeoman.io/).
+├── Design  
+│   └── README.md  
+
+├── Journal  
+│   └── README.md  
+
+├── Research  
+│   └── README.md  
+
+├── Task-management  
+│   ├── 1. backlog  
+│   ├── 2. progress  
+│   ├── 3. done  
+│   ├── 4. blocked  
+│   └── README.md  
+
+└── Test  
+     └── README.md  
 
 ## License
 
-Apache-2.0 © [Vlad Zamskoi](freeraven.com)
+Apache-2.0 © [Vlad Zamskoi](https://freeraven.com)
 
 
 [npm-image]: https://badge.fury.io/js/generator-pm.svg

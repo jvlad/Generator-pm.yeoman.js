@@ -1,5 +1,5 @@
 # generator-pm
-> Yeoman generator for Project Management and Documentation Repository.
+> Yeoman generator for Project Management and Documentation Repository.  
 > Project Management and Documentation Repository is just a folder where you can keep all project specs, notes and tasks in form of regular files: text, images and any others.
 > "pm" stays for "Project Management".
 

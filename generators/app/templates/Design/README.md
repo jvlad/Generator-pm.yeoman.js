@@ -1,2 +1,2 @@
-# Design Folder
-Should contain specification and requirements documents: text, images and so on
+# <%= projectName %> Design and Specifications
+> This folder should contain specification and requirements documents: text, images and so on.

@@ -1,3 +1,3 @@
-# Research Folder
-Should contain notes about specific problems and progress on solving them.  
+# <%= projectName %> Research
+> This folder should contain notes about specific problems and progress on solving them.  
 The difference of Research Folder content in comparison to Journal Folder content that Research Folder content should be project agnostic. That's it, you should place to Research Folder kind of knowledge you expect can be reused in the future, and not necessary only in this particular project. While Journal Folder is like work diary related to one specific project.

@@ -41,7 +41,7 @@ yo pm
 
 ## License
 
-Apache-2.0 © [Vlad Zamskoi](https://freeraven.com)
+Apache-2.0 © [Vlad Zamskoi](www.freeraven.com)
 
 
 [npm-image]: https://badge.fury.io/js/generator-pm.svg

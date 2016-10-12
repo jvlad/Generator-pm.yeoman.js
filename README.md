@@ -94,7 +94,7 @@ Apache-2.0 © [Vlad Zamskoi](https://www.freeraven.com)
 [daviddm-url]: https://david-dm.org//generator-pm
 
 ## Thanks
-To __Carsten Dominik__ for the idea of Emacs Org-mode - a system for note-taking and project planning   
+To __Carsten Dominik__ for the idea of Emacs Org-mode — a system for note-taking and project planning.   
 References:
 * <http://orgmode.org/>
 * <https://www.youtube.com/watch?v=oJTwQvgfgMM>

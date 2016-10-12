@@ -3,10 +3,6 @@
 var yeoman = require('yeoman-generator');
 
 module.exports = yeoman.Base.extend({
-  debug: function () {
-    console.log('method 1 just ran');
-  },
-
   prompting: function () {
     return this.prompt([{
       type    : 'input',
@@ -19,7 +15,6 @@ module.exports = yeoman.Base.extend({
   },
 
   writing: function () {
-    console.log("projectName is: " + this.projectName);
     this.fs.copyTpl(
       this.templatePath('README.md'),
       this.destinationPath('README.md'),

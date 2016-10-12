@@ -1,7 +1,7 @@
 {
   "name": "generator-pm",
-  "version": "0.1.0",
-  "description": "Keep off-line all of your project management documents: specs, notes and tasks in form of text or any other files.",
+  "version": "0.1.1",
+  "description": "Yeoman generator of project structure to keep all of your project management documents: specs, notes and tasks in a form of text or any other files.",
   "homepage": "",
   "author": {
     "name": "Vlad Zamskoi",
@@ -13,7 +13,8 @@
   ],
   "main": "generators/index.js",
   "keywords": [
-    "",
+    "project management",
+    "documentation",
     "yeoman-generator"
   ],
   "dependencies": {

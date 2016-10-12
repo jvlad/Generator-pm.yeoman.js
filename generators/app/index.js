@@ -28,6 +28,11 @@ module.exports = yeoman.Base.extend({
       }
     );
 
+    this.fs.copy(
+      this.templatePath('.gitignore'),
+      this.destinationPath('.gitignore')
+    );
+
     this.fs.copyTpl(
       this.templatePath('Design/README.md'),
       this.destinationPath('Design/README.md'),

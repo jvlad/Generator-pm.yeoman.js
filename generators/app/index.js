@@ -53,6 +53,14 @@ module.exports = yeoman.Base.extend({
     );
 
     this.fs.copyTpl(
+      this.templatePath('Team/README.md'),
+      this.destinationPath('Team/README.md'),
+      {
+        projectName: this.projectName
+      }
+    );
+
+    this.fs.copyTpl(
       this.templatePath('Task-management/README.md'),
       this.destinationPath('Task-management/README.md'),
       {

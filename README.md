@@ -1,3 +1,5 @@
+![generator-pm logo][]
+
 # generator-pm
 Yeoman generator for Project Management and Documentation Repository.    
 Project Management and Documentation Repository is just a folder where you can keep all project specs, notes and tasks in form of regular files: text, images and any others.  
@@ -58,7 +60,7 @@ Project Management and Documentation Repository is just a folder where you can k
 
 1. That's it. Now you can add and store the documentation and all of your notes in organized way.
 
-## Generated Files Structure (as for v0.1.7 of npm package)
+## Generated Files Structure (as for v0.1.8 of npm package)
 ├── README.md  
 ├── .gitignore  
 
@@ -76,25 +78,22 @@ Project Management and Documentation Repository is just a folder where you can k
 │   ├── 2. progress  
 │   ├── 3. done  
 │   ├── 4. blocked  
+│   └── README.md
+
+├── Team  
 │   └── README.md  
 
 └── Test  
-      └── README.md  
+│   └── README.md  
 
 ## License
 
 Apache-2.0 © [Vlad Zamskoi](https://www.freeraven.com)
-
-
-[npm-image]: https://badge.fury.io/js/generator-pm.svg
-[npm-url]: https://npmjs.org/package/generator-pm
-[travis-image]: https://travis-ci.org//generator-pm.svg?branch=master
-[travis-url]: https://travis-ci.org//generator-pm
-[daviddm-image]: https://david-dm.org//generator-pm.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org//generator-pm
 
 ## Thanks
 To __Carsten Dominik__ for the idea of Emacs Org-mode — a system for note-taking and project planning.   
 References:
 * <http://orgmode.org/>
 * <https://www.youtube.com/watch?v=oJTwQvgfgMM>
+
+[generator-pm logo]: ./resources/yo-pm.icon.png

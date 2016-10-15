@@ -50,6 +50,7 @@ Project Management and Documentation Repository is just a folder where you can k
     create Design/README.md
     create Journal/README.md
     create Research/README.md
+    create Team/README.md
     create Task-management/README.md
     create Task-management/1. backlog/.gitkeep
     create Task-management/2. progress/.gitkeep
